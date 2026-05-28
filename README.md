@@ -29,8 +29,13 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
 [![](https://komarev.com/ghpvc/?username=dishantpanchal03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about 
+  Linux, Docker, Kubernetes, CI/CD, Cloud Computing, and DevOps tools
+- 📫 How to reach me:
+  Email: dishantpanchal0311@gmail.com
+  LinkedIn: https://www.linkedin.com/in/dishant-panchal-6b40b62aa/
+- 😄 Pronouns: 
+  He/Him
+- ⚡ Fun fact: 
+  I enjoy automating tasks and learning new cloud technologies 🚀
 -->
