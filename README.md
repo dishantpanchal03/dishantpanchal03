@@ -39,3 +39,6 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
 - ⚡ Fun fact: 
   I enjoy automating tasks and learning new cloud technologies 🚀
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dishantpanchal03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
