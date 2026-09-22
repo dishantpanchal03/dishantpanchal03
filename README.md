@@ -62,6 +62,8 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
 
 <div align="center">
   <a href="https://leetcode.com/dishantpanchal0311/"><img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode 50 days badge" width="120" /></a>
+  <a href="https://leetcode.com/dishantpanchal0311/"><img src="https://assets.leetcode.com/static_assets/others/100.gif" alt="LeetCode 100 days badge" width="120" /></a>
+  
   
 </div>
 
