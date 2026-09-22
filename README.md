@@ -1,5 +1,26 @@
-## Hi there 👋
+<div align="center">
+  
+# Hii there 👋
 
+</div>
+
+---
+
+## 🚀 About Me
+
+I am a DevOps student passionate about cloud computing, automation, and infrastructure management.<br><br>🔹 Learning Docker, Kubernetes, Linux, and AWS  <br>🔹 Exploring CI/CD pipelines and Infrastructure as Code  <br>🔹 Building real-world DevOps projects  <br>🔹 Interested in cloud-native technologies and automation  <br><br>Always learning and improving every day 
+
+---
+
+## 💻 Tech Stack
+
+### **Languages**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.2/cpp_256x256.png" alt="cpp" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" alt="C" width="50" height="50"/>
+</p>
 <!--
 **dishantpanchal03/dishantpanchal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,10 +55,8 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
 - 📫 How to reach me:
   Email: dishantpanchal0311@gmail.com
   LinkedIn: https://www.linkedin.com/in/dishantpanchal/
-- 😄 Pronouns: 
-  He/Him
 - ⚡ Fun fact: 
-  I enjoy automating tasks and learning new cloud technologies 🚀
+  I enjoy automating tasks and learning new technologies 🚀
 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dishantpanchal03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
