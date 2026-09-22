@@ -74,7 +74,7 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishantpanchal/)
-[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishantpanchal0311@gmail.com)
+[![Email](https://img.shields.io/badge/Email-dishantpanchal0311@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishantpanchal0311@gmail.com)
 
 </div>
 
