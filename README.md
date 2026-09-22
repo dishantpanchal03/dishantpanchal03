@@ -21,6 +21,61 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/cpp@0.0.2/cpp_256x256.png" alt="cpp" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/npm/@programming-languages-logos/c@0.0.3/c_256x256.png" alt="C" width="50" height="50"/>
 </p>
+
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50"/>
+</p>
+
+### **Databases & Monitoring**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="50" height="50"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=dishantpanchal03&theme=dark&hide_border=false" alt="GitHub Streak" width="400">
+</div>
+
+---
+
+## Programming Practice Stats
+
+<div align="center">
+  <a href="https://leetcode.com/dishantpanchal0311/">
+    <img width="49%" src="https://leetcard.jacoblin.cool/dishantpanchal0311?theme=dark&font=Akshar&ext=contest" alt="LeetCode stats card" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/dishantpanchal/">
+    <img width="49%" src="https://gfgstatscard.vercel.app/dishantpanchal" alt="GeeksforGeeks stats card" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://leetcode.com/dishantpanchal0311/"><img src="https://assets.leetcode.com/static_assets/others/50.gif" alt="LeetCode 50 days badge" width="120" /></a>
+  
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dishantpanchal/)
+[![Email](https://img.shields.io/badge/Email-trainwithshubham@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dishantpanchal0311@gmail.com)
+
+</div>
+
 <!--
 **dishantpanchal03/dishantpanchal03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -50,14 +105,8 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
 [![](https://komarev.com/ghpvc/?username=dishantpanchal03&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 💬 Ask me about 
-  Linux, Docker, Kubernetes, CI/CD, Cloud Computing, and DevOps tools
-- 📫 How to reach me:
-  Email: dishantpanchal0311@gmail.com
-  LinkedIn: https://www.linkedin.com/in/dishantpanchal/
-- ⚡ Fun fact: 
-  I enjoy automating tasks and learning new technologies 🚀
--->
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dishantpanchal03&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
