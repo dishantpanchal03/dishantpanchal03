@@ -33,7 +33,7 @@ I am a DevOps student passionate about cloud computing, automation, and infrastr
   Linux, Docker, Kubernetes, CI/CD, Cloud Computing, and DevOps tools
 - 📫 How to reach me:
   Email: dishantpanchal0311@gmail.com
-  LinkedIn: https://www.linkedin.com/in/dishant-panchal-6b40b62aa/
+  LinkedIn: https://www.linkedin.com/in/dishantpanchal/
 - 😄 Pronouns: 
   He/Him
 - ⚡ Fun fact: 
